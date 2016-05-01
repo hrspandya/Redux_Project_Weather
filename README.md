@@ -1,2 +1,6 @@
-# Redux_Project
-Learning Redux and Building App
+Building Weather App for cities in USA
+
+```
+	> npm install
+	> npm start
+```
